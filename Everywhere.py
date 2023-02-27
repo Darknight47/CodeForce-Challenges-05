@@ -22,7 +22,25 @@ Output
 For each test case, if it is possible to make all elements equal after some number of operations, output YES.
 Otherwise, output NO.
 
-You can output YES and NO in any case (for example, strings yEs, yes, Yes will be recognized as a positive response).
+You can output YES and NO in any case
+(for example, strings yEs, yes, Yes will be recognized as a positive response).
+
+Input:
+4
+3
+42 42 42
+5
+1 2 3 4 5
+4
+4 3 2 1
+3
+24 2 22
+
+Output:
+YES
+YES
+NO
+NO
 
 """
 
