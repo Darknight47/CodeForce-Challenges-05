@@ -36,6 +36,7 @@ Input:
 3 2
 50 85 250
 10 15 25
+
 Output:
 Limak
 
